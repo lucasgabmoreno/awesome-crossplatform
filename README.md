@@ -17,14 +17,14 @@ A list of native software that works at least on Windows, MacOS and Linux.<br>
 [<img src=img/android.svg>](## "Android") Android: [F-Droid](https://f-droid.org/)
 
 ### Audio
-* [Audacity](https://www.audacityteam.org/): Audio editor and recorder [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")
+* [Audacity](https://www.audacityteam.org/): Audio editor and recorder. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")
 
 ### Email
-* [Betterbird](https://www.betterbird.eu/): Fine-tuned, enhanced version of Mozilla Thunderbird [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")
-* [Thunderbird](https://www.thunderbird.net/): [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")[<img src=img/freebds.svg>](## "FreeBDS")
-* [Mailspring](https://www.getmailspring.com/): [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")
+* [Betterbird](https://www.betterbird.eu/): Fine-tuned, enhanced version of Mozilla Thunderbird. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")
+* [Thunderbird](https://www.thunderbird.net/): Email application developed by Mozilla. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")[<img src=img/freebds.svg>](## "FreeBDS")
+* [Mailspring](https://www.getmailspring.com/): Fast and modern email client. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")
 
 ### Office
-* [LibreOffice](https://www.libreoffice.org/): [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")[<img src=img/freebds.svg>](## "FreeBDS")
+* [LibreOffice](https://www.libreoffice.org/): Provides a powerful and comprehensive set of applications for document creation and productivity.[<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")[<img src=img/freebds.svg>](## "FreeBDS")
 * [Onlyoffice](https://www.onlyoffice.com/): [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")
 * [Openoffice ](https://www.openoffice.org/): [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")
