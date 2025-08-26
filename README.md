@@ -1,5 +1,5 @@
 # Awesome Crossplatform
-A list of software that works at least on Windows, MacOS and Linux.<br> <img src=img/win.svg><img src=img/mac.svg><img src=img/linux.svg>
+A list of native software that works at least on Windows, MacOS and Linux.<br> <img src=img/win.svg><img src=img/mac.svg><img src=img/linux.svg>
 
 ## Content
 * [Recommended native installation methods](#recommended-native-installation-methods)
