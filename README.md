@@ -17,12 +17,12 @@ A list of native software that works at least on Windows, MacOS and Linux.<br>
 [<img src=img/android.svg>](## "Android") Android: [F-Droid](https://f-droid.org/)
 
 ### Audio
-* [Audacity](https://www.audacityteam.org/): Audio editor and recorder. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")
+[<img src=https://www.audacityteam.org/favicon.svg height=16px>](## "Audacity") [Audacity](https://www.audacityteam.org/): Audio editor and recorder. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")
 
 ### Email
-* [Betterbird](https://www.betterbird.eu/): Fine-tuned, enhanced version of Mozilla Thunderbird. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")
-* [Thunderbird](https://www.thunderbird.net/): Email application developed by Mozilla. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")[<img src=img/freebds.svg>](## "FreeBDS")
-* [Mailspring](https://www.getmailspring.com/): Fast and modern email client. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")
+[<img src=https://www.betterbird.eu/favicon.ico height=16px>](## "Betterbird") [Betterbird](https://www.betterbird.eu/): Fine-tuned, enhanced version of Mozilla Thunderbird. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")  <br>
+[<img src=https://www.thunderbird.net/favicon.ico height=16px>](## "Thunderbird") [Thunderbird](https://www.thunderbird.net/): Email application developed by Mozilla. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")[<img src=img/freebds.svg>](## "FreeBDS")  <br>
+[Mailspring](https://www.getmailspring.com/): Fast and modern email client. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")
 
 ### Office
 * [LibreOffice](https://www.libreoffice.org/): Provides a powerful and comprehensive set of applications for document creation and productivity.[<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")[<img src=img/freebds.svg>](## "FreeBDS")
