@@ -2,12 +2,7 @@
 A list of native software that works at least on Windows, MacOS and Linux.<br>
 [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")
 
-## Content
-* [Recommended native installation methods](#recommended-native-installation-methods)
-* [Audio](#audio)
-* [Email](#email)
-* [Office](#office)
-
+---
 
 ### Recommended native installation methods
 [<img src=img/win.svg>](## "Windows") Windows: [Chocolatey](https://chocolatey.org/install) <br>
@@ -15,6 +10,8 @@ A list of native software that works at least on Windows, MacOS and Linux.<br>
 [<img src=img/linux.svg>](## "Linux") Linux: [Flatpak](https://flatpak.org/setup/)<br>
 [<img src=img/chrome.svg>](## "ChromeOS") ChromeOS: [Chromebrew](https://chromebrew.github.io/)<br>
 [<img src=img/android.svg>](## "Android") Android: [F-Droid](https://f-droid.org/)
+
+---
 
 ### Audio
 [<img src=https://www.audacityteam.org/favicon.svg height=16px>](## "Audacity") [Audacity](https://www.audacityteam.org/): 	Multi-track audio editor and recorder. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")
@@ -33,6 +30,9 @@ A list of native software that works at least on Windows, MacOS and Linux.<br>
 [<img src=https://www.softmaker.com/templates/joomaker/images/favicon.ico height=16px>](## "FreeOffice") [FreeOffice](https://www.freeoffice.com/): A free, basic office suite from SoftMaker. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")<br>
 
 ### Web Browsers
+[<img src=https://www.firefox.com/favicon.ico height=16px>](## "Firefox") [Firefox](https://www.firefox.com/): Web browser from Mozilla. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")[<img src=img/android.svg>](## "Android")[<img src=img/freebds.svg>](## "FreeBDS") <br>
+[<img src=https://www.google.com/chrome/static/images/favicons/favicon-16x16.png height=16px>](## "Chrome") [Chrome](https://www.google.com/chrome/): Web browser from Google.  [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")[<img src=img/android.svg>](## "Android") <br>
+[<img src=https://edgestatic.azureedge.net/welcome/static/favicon.png height=16px>](## "Edge") [Edge](https://www.microsoft.com/edge/): Web browser from Microsoft. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android") <br>
 
 
 ### Design
