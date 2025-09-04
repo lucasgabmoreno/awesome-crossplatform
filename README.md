@@ -31,12 +31,17 @@ A list of native software that works at least on Windows, MacOS and Linux.<br>
 
 ### Web Browsers
 [<img src=https://www.firefox.com/favicon.ico height=16px>](## "Firefox") [Firefox](https://www.firefox.com/): Web browser from Mozilla. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")[<img src=img/android.svg>](## "Android")[<img src=img/freebds.svg>](## "FreeBDS") <br>
+[<img src=https://librewolf.net/favicon.ico height=16px>](## "Brave") [LibreWolf](https://librewolf.net/): A custom version of Firefox, focused on privacy, security and freedom. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/freebds.svg>](## "FreeBDS")<br>
 [<img src=https://www.google.com/chrome/static/images/favicons/favicon-16x16.png height=16px>](## "Chrome") [Chrome](https://www.google.com/chrome/): Web browser from Google.  [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")[<img src=img/android.svg>](## "Android") <br>
 [<img src=https://edgestatic.azureedge.net/welcome/static/favicon.png height=16px>](## "Edge") [Edge](https://www.microsoft.com/edge/): Web browser from Microsoft. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android") <br>
 [<img src=https://brave.com/favicon.ico height=16px>](## "Brave") [Brave](https://brave.com/): Web browser focusing on privacy. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android") <br>
-[<img src=https://librewolf.net/favicon.ico height=16px>](## "Brave") [LibreWolf](https://librewolf.net/): A custom version of Firefox, focused on privacy, security and freedom. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/freebds.svg>](## "FreeBDS")<br>
 [<img src=https://vivaldi.com/favicon.ico height=16px>](## "Vivaldi") [Vivaldi](https://vivaldi.com/): Web browser with built-in email client focusing on customization and control. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")<br>
 [<img src=https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/favicon/opera/favicon-16x16.052be2038748.png height=16px>](## "Opera") [Opera](https://www.opera.com/): Web browser. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")<br>
+[<img src=https://www.chromium.org/favicon.ico height=16px>](## "Chromium") [Chromium](https://www.chromium.org/): Free and open-source web browser. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")<br>
+[<img src=https://thorium.rocks/favicon-16x16.png height=16px>](## "Chromium") [Thorium](https://thorium.rocks/): Fast chromium browser. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/android.svg>](## "Android")<br>
+[<img src=https://storage.googleapis.com/production-os-assets/assets/352b11f0-9dc4-4905-aafd-f48929e6d8b5 height=16px>](## "Chromium") [Biscuit](https://eatbiscuit.com/): Browser to organise apps. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+
+
 
 ### Design
 
