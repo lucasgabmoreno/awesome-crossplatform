@@ -42,6 +42,24 @@ A list of native software that works at least on Windows, MacOS and Linux.<br>
 [<img src=https://storage.googleapis.com/production-os-assets/assets/352b11f0-9dc4-4905-aafd-f48929e6d8b5 height=16px>](## "Chromium") [Biscuit](https://eatbiscuit.com/): Browser to organise apps. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
 
 
+### Graphic and Image Design 
+[<img src=https://www.gimp.org/images/wilber32.png height=16px>](## "Gimp") [Gimp](https://www.gimp.org/): Free and open-source image editor. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")[<img src=img/freebds.svg>](## "FreeBDS")<br>
 
-### Design
 
+ 
+
+Inkscape 
+
+Upscayl 
+
+Lunacy 
+
+scribus 
+
+Xnview 
+
+BirdFont: https://birdfont.org/  
+
+Darktable: https://www.darktable.org/ 
+
+MyPaint: https://www.mypaint.app/en/  
