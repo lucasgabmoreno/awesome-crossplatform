@@ -60,11 +60,15 @@ A list of native software that works at least on Windows, MacOS and Linux.<br>
 
 
 ### 2D Animation  
-[<img src=https://www.gimp.org/images/wilber32.png height=16px>](## "Gimp") [Gimp](https://www.gimp.org/): Free and open-source image editor. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")[<img src=img/freebds.svg>](## "FreeBDS")<br>
+[<img src=https://krita.org/images/favicon.ico height=16px>](## "Krita") [Krita](https://krita.org/): Free and open-source image editor. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")[<img src=img/android.svg>](## "Android")[<img src=img/freebds.svg>](## "FreeBDS")<br>
+[<img src=https://www.synfig.org/favicon.ico height=16px>](## "Synfig") [Synfig](https://www.synfig.org/): 	2D animation software. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+[<img src=https://opentoonz.github.io/e/img/favicon.ico height=16px>](## "OpenToonz") [OpenToonz](https://opentoonz.github.io/): 	Open-source full-featured 2D animation creation software. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+[<img src=https://tahoma2d.org/media/branding/favicon.ico height=16px>](## "Tahoma2D") [Tahoma2D](https://tahoma2d.org/): 	Free and powerful software for 2D and stop motion animators. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
 
-https://krita.org/images/favicon.ico
-Krita
-https://krita.org/
-(Android)
 
- 
+
+
+
+
+
+
