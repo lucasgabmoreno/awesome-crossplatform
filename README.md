@@ -47,15 +47,27 @@ A list of native software that works at least on Windows, MacOS and Linux.<br>
 [<img src=https://media.inkscape.org/static/images/inkscape-favicon.png height=16px>](## "Inkscape") [Inkscape](https://inkscape.org/): Vector graphics editor. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")[<img src=img/freebds.svg>](## "FreeBDS")<br>
 [<img src=https://www.scribus.net/favicon.ico height=16px>](## "Scribus") [Scribus](https://www.scribus.net/):	Free and open-source page layout program. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/freebds.svg>](## "FreeBDS")<br>
 [<img src=https://upscayl.org/logo/64x64.png height=16px>](## "Scribus") [Upscayl](https://upscayl.org/):	AI image upscaler. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+[<img src=https://icons8.com/vue-static/landings/lunacy-new/favicon-32.png height=16px>](## "Lunacy") [Lunacy](https://icons8.com/lunacy):	Graphic design software. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
 
 
-Lunacy 
 
-
+https://www.xnview.com/ico/favicon.ico
 Xnview 
+https://www.xnview.com/en/
 
-BirdFont: https://birdfont.org/  
+XnView MP 
+XnConvert 
+XnResize 
+XnRetro 
 
-Darktable: https://www.darktable.org/ 
+BirdFont
+https://birdfont.org/  
 
-MyPaint: https://www.mypaint.app/en/  
+Darktable
+https://www.darktable.org/ 
+
+MyPaint
+https://www.mypaint.app/en/  
+
+Fontforge
+https://fontforge.org/en-US/  
