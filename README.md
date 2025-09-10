@@ -48,26 +48,23 @@ A list of native software that works at least on Windows, MacOS and Linux.<br>
 [<img src=https://www.scribus.net/favicon.ico height=16px>](## "Scribus") [Scribus](https://www.scribus.net/):	Free and open-source page layout program. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/freebds.svg>](## "FreeBDS")<br>
 [<img src=https://upscayl.org/logo/64x64.png height=16px>](## "Scribus") [Upscayl](https://upscayl.org/):	AI image upscaler. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
 [<img src=https://icons8.com/vue-static/landings/lunacy-new/favicon-32.png height=16px>](## "Lunacy") [Lunacy](https://icons8.com/lunacy):	Graphic design software. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+[<img src=https://www.darktable.org/favicon.ico height=16px>](## "Darktable") [Darktable](https://www.darktable.org/): Photography workflow application and raw developer. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+[<img src=https://www.rawtherapee.com/favicon.ico height=16px>](## "Raw Therapee") [Raw Therapee](https://www.rawtherapee.com/):	RAW photo processor. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+[<img src=https://www.mypaint.app/images/mypaint/favicon-light.svg height=16px>](## "MyPaint") [MyPaint](https://www.mypaint.app/): Painting and sketching from scratch. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+[<img src=https://birdfont.org/favicon.ico height=16px>](## "BirdFont") [BirdFont](https://birdfont.org/): Font editor. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+[<img src=https://fontforge.org/assets/img/favicon-32x32.png height=16px>](## "Fontforge") [Fontforge](https://fontforge.org/): Font editor and converter for outline and bitmap fonts. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+[<img src=https://www.xnview.com/ico/favicon.ico height=16px>](## "XnView MP") [XnView MP](https://www.xnview.com/): Photo viewer, image manager, image resiser and more. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+[<img src=https://www.xnview.com/ico/favicon.ico height=16px>](## "XnConvert") [XnConvert](https://www.xnview.com/): Image-converter and resiser tool. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+[<img src=https://www.xnview.com/ico/favicon.ico height=16px>](## "XnResize") [XnResize](https://www.xnview.com/): Image resizer tool. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
+[<img src=https://www.xnview.com/ico/favicon.ico height=16px>](## "XnRetro") [XnRetro](https://www.xnview.com/): Stunning images with vintage or instant effect. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")<br>
 
 
+### 2D Animation  
+[<img src=https://www.gimp.org/images/wilber32.png height=16px>](## "Gimp") [Gimp](https://www.gimp.org/): Free and open-source image editor. [<img src=img/win.svg>](## "Windows")[<img src=img/mac.svg>](## "MacOS")[<img src=img/linux.svg>](## "Linux")[<img src=img/chrome.svg>](## "ChromeOS")[<img src=img/freebds.svg>](## "FreeBDS")<br>
 
-https://www.xnview.com/ico/favicon.ico
-Xnview 
-https://www.xnview.com/en/
+https://krita.org/images/favicon.ico
+Krita
+https://krita.org/
+(Android)
 
-XnView MP 
-XnConvert 
-XnResize 
-XnRetro 
-
-BirdFont
-https://birdfont.org/  
-
-Darktable
-https://www.darktable.org/ 
-
-MyPaint
-https://www.mypaint.app/en/  
-
-Fontforge
-https://fontforge.org/en-US/  
+ 
