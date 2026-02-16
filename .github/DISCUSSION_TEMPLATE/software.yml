@@ -1,4 +1,5 @@
-labels: [software]
+title: "[Software Suggestion] "
+labels: ["software", "suggestion"]
 body:
   - type: markdown
     attributes:
@@ -31,7 +32,7 @@ body:
       value: |
         ## Recommended
 
-  - type: input
+  - type: textarea
     id: about
     attributes:
       label: About
@@ -49,7 +50,7 @@ body:
     id: favicon-light
     attributes:
       label: Light
-      description: URL to the light mode favicon
+      description: URL to the light mode favicon (optional)
       placeholder: http://softwarename.com/favicon.ico
     validations:
       required: false
@@ -58,7 +59,7 @@ body:
     id: favicon-dark
     attributes:
       label: Dark
-      description: URL to the dark mode favicon
+      description: URL to the dark mode favicon (optional)
       placeholder: http://softwareweb.com/favicon_dark.ico
     validations:
       required: false
@@ -68,14 +69,14 @@ body:
       value: |
         ### Operating Systems
 
-  - type: markdown
-    attributes:
-      value: |
-        [ x ] Windows, MacOS & Linux
+        **Important for inclusion**  
+        This list focuses on native cross-platform software that supports **at least Windows, macOS, and Linux**.  
+        Please make sure to check **Windows**, **MacOS**, and **Linux** below. Suggestions without these three will likely be rejected.
 
   - type: checkboxes
     id: operating-systems
     attributes:
+      label: Supported Operating Systems
       options:
         - label: Windows
         - label: MacOS
