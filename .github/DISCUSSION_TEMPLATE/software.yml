@@ -75,6 +75,7 @@ body:
 
   - type: checkboxes
     id: operating-systems
+    label: Operating Systems
     attributes:
       options:
         - label: Windows
