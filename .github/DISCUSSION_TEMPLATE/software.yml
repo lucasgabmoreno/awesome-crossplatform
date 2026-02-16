@@ -1,33 +1,78 @@
-name: Software Submission
-description: Add new software information to the project
-title: "[Software]: "
+title: "[Software] "
+labels: ["software", "suggestion"]
 body:
   - type: markdown
     attributes:
-      value: "### Please fill out the software details below."
-  - type: input
-    id: software_name
+      value: |
+        # Software Information
+
+  - type: markdown
     attributes:
-      label: "Software Name"
+      value: |
+        ## Required
+
+  - type: input
+    id: software-name
+    attributes:
+      label: Software name
+      placeholder: Software Name
     validations:
       required: true
+
   - type: input
     id: website
     attributes:
-      label: "Website URL"
+      label: Website
+      placeholder: http://softwareweb.com/home
     validations:
       required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Recommended
+
   - type: textarea
     id: about
     attributes:
-      label: "About"
-  - type: checkboxes
-    id: os
+      label: About
+      description: Very short software description.
+      placeholder: Very short software description.
+    validations:
+      required: false
+
+  - type: markdown
     attributes:
-      label: "Operating System"
+      value: |
+        ### Favicon URLs
+
+  - type: input
+    id: favicon-light
+    attributes:
+      label: Light
+      description: URL to the light mode favicon
+      placeholder: http://softwarename.com/favicon.ico
+    validations:
+      required: false
+
+  - type: input
+    id: favicon-dark
+    attributes:
+      label: Dark
+      description: URL to the dark mode favicon
+      placeholder: http://softwareweb.com/favicon_dark.ico
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: operating-systems
+    attributes:
+      label: Operating System
       options:
         - label: Windows
         - label: MacOS
         - label: Linux
         - label: Android
         - label: iOS
+        - label: ChromeOS
+        - label: FreeBSD
