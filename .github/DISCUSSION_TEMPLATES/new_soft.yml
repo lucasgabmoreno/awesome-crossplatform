@@ -23,9 +23,7 @@ body:
       required: true
   - type: markdown
     attributes:
-      value: |
-        ---
-        ## Recommended
+      value: "## Recommended"
   - type: textarea
     id: about
     attributes:
