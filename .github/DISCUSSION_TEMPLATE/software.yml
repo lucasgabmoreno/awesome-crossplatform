@@ -49,7 +49,7 @@ body:
   - type: input
     id: favicon-light
     attributes:
-      label: Light
+      label: Favicon Light
       description: URL to the light mode favicon (optional)
       placeholder: http://softwarename.com/favicon.ico
     validations:
@@ -58,7 +58,7 @@ body:
   - type: input
     id: favicon-dark
     attributes:
-      label: Dark
+      label: Favicon Dark
       description: URL to the dark mode favicon (optional)
       placeholder: http://softwareweb.com/favicon_dark.ico
     validations:
