@@ -6,53 +6,39 @@ category: New Software
 body:
   - type: markdown
     attributes:
-      value: "# Software Information"
-
-  - type: markdown
-    attributes:
-      value: "## Required"
-
+      value: |
+        # Software Information
+        ## Required
   - type: input
     id: software_name
     attributes:
       label: "Software Name"
-      placeholder: "e.g. Visual Studio Code"
     validations:
       required: true
-
   - type: input
     id: website
     attributes:
       label: "Website URL"
-      placeholder: "http://softwareweb.com/home"
     validations:
       required: true
-
   - type: markdown
     attributes:
-      value: "--- \n## Recommended"
-
+      value: |
+        ---
+        ## Recommended
   - type: textarea
     id: about
     attributes:
       label: "About"
       description: "Very short software description."
-      placeholder: "This software is a powerful editor..."
-    validations:
-      required: false
-
   - type: input
     id: favicon_light
     attributes:
       label: "Favicon URL (Light)"
-      placeholder: "http://softwarename.com/favicon.ico"
-
   - type: input
     id: favicon_dark
     attributes:
       label: "Favicon URL (Dark)"
-      placeholder: "http://softwareweb.com/favicon_dark.ico"
-
   - type: checkboxes
     id: os
     attributes:
