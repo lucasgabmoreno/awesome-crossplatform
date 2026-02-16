@@ -1,5 +1,4 @@
-title: "[Software] "
-labels: ["software", "suggestion"]
+labels: [software]
 body:
   - type: markdown
     attributes:
