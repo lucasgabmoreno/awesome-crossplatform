@@ -1,43 +1,38 @@
 name: Software Submission
-description: Form to add new software info
+description: Add new software information
 title: "[Software]: "
-labels: ["new-software"]
-category: New Software
 body:
   - type: markdown
     attributes:
-      value: |
-        # Software Information
-        Complete the fields below to contribute.
+      value: "### Software Information"
   - type: input
-    id: name
+    id: software_name
     attributes:
-      label: "Software Name"
+      label: Software Name
     validations:
       required: true
   - type: input
-    id: web
+    id: website
     attributes:
-      label: "Website URL"
+      label: Website URL
     validations:
       required: true
   - type: textarea
     id: about
     attributes:
-      label: "About"
-      description: "Short description"
+      label: About
   - type: input
-    id: fav_light
+    id: favicon_light
     attributes:
-      label: "Favicon Light"
+      label: Favicon URL (Light)
   - type: input
-    id: fav_dark
+    id: favicon_dark
     attributes:
-      label: "Favicon Dark"
+      label: Favicon URL (Dark)
   - type: checkboxes
     id: os
     attributes:
-      label: "Operating System"
+      label: Operating System
       options:
         - label: Windows
         - label: MacOS
