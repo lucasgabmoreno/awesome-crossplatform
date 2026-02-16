@@ -31,7 +31,7 @@ body:
       value: |
         ## Recommended
 
-  - type: textarea
+  - type: input
     id: about
     attributes:
       label: About
@@ -63,10 +63,19 @@ body:
     validations:
       required: false
 
+  - type: markdown
+    attributes:
+      value: |
+        ### Operating Systems
+
+  - type: markdown
+    attributes:
+      value: |
+        [ x ] Windows, MacOS & Linux
+
   - type: checkboxes
     id: operating-systems
     attributes:
-      label: Operating System
       options:
         - label: Windows
         - label: MacOS
