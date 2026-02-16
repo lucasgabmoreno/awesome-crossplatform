@@ -1,4 +1,5 @@
-labels: [software]
+title: "[Software Suggestion] "
+labels: ["software", "suggestion"]
 body:
   - type: markdown
     attributes:
@@ -31,12 +32,13 @@ body:
       value: |
         ## Recommended
 
-  - type: input
+  - type: textarea
     id: about
     attributes:
       label: About
       description: Very short software description.
       placeholder: Very short software description.
+      render: markdown   # Opcional, para que soporte formato si el usuario lo usa
     validations:
       required: false
 
@@ -49,7 +51,7 @@ body:
     id: favicon-light
     attributes:
       label: Light
-      description: URL to the light mode favicon
+      description: URL to the light mode favicon (optional)
       placeholder: http://softwarename.com/favicon.ico
     validations:
       required: false
@@ -58,7 +60,7 @@ body:
     id: favicon-dark
     attributes:
       label: Dark
-      description: URL to the dark mode favicon
+      description: URL to the dark mode favicon (optional)
       placeholder: http://softwareweb.com/favicon_dark.ico
     validations:
       required: false
@@ -68,14 +70,13 @@ body:
       value: |
         ### Operating Systems
 
-  - type: markdown
-    attributes:
-      value: |
-        [ x ] Windows, MacOS & Linux
+        **Important**: For this list, the software **must** support at least Windows, macOS and Linux natively.  
+        Please check **Windows**, **MacOS** and **Linux** below (they are required for inclusion).
 
   - type: checkboxes
     id: operating-systems
     attributes:
+      label: Supported Operating Systems
       options:
         - label: Windows
         - label: MacOS
@@ -84,3 +85,5 @@ body:
         - label: iOS
         - label: ChromeOS
         - label: FreeBSD
+      validations:
+        required: true   # Obliga a seleccionar al menos uno (pero no fuerza los específicos)
