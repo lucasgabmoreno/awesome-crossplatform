@@ -2,6 +2,7 @@ name: Software Submission
 description: Add new software information to the project
 title: "[Software]: "
 labels: ["new-software"]
+category: New Software
 body:
   - type: markdown
     attributes:
