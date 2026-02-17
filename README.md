@@ -98,7 +98,5 @@ A list of native software that works at least on Windows, MacOS and Linux.<br>
 
 ---
 
-### Credits
-* [Homebrew cask database](https://formulae.brew.sh/cask/)
-* [Chromebrew packages database](https://github.com/chromebrew/chromebrew/tree/master/packages)
-
+### Are we missing out on any cross-platform programs?
+Please, [upload a discussion](https://github.com/lucasgabmoreno/awesome-crossplatform/discussions/new?category=software).
