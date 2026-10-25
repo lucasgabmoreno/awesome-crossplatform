@@ -105,7 +105,5 @@ A collection of awesome software that works at least on Windows, macOS, and Linu
 [<img src="https://thorium.rocks/favicon-32x32.png" height=16px>](## "Thorium") [Thorium](https://thorium.rocks/): Fast chromium browser . [<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/win.svg>](## "Windows")[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/mac.svg>](## "MacOS")[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/linux.svg>](## "Linux")[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/android.svg>](## "Android")[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/chrome.svg>](## "ChromeOS")<br>
 [<img src="https://vivaldi.com/wp-content/uploads/cropped-favicon-32x32.png" height=16px>](## "Vivaldi") [Vivaldi](https://vivaldi.com/): Web browser with built-in email client focusing on customization and control . [<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/win.svg>](## "Windows")[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/mac.svg>](## "MacOS & iOS")[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/linux.svg>](## "Linux")[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/android.svg>](## "Android")[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/chrome.svg>](## "ChromeOS")<br>
 
----
 
-### Are we missing out on any cross-platform programs?
-Please, [upload a discussion](https://github.com/lucasgabmoreno/awesome-crossplatform/discussions/new?category=software).
+
