@@ -1,15 +1,9 @@
 # Awesome Crossplatform
-A list of native software that works at least on Windows, MacOS and Linux.<br>
-[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/win.svg>](## "Windows")[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/mac.svg>](## "MacOS")[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/linux.svg>](## "Linux")
 
----
+<a href="https://github.com/sindresorhus/awesome"><img src="https://camo.githubusercontent.com/2727609d8bfde9ba1a95be1449eb878bfafa4d76789ba05661857e2c8ac70fa1/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Awesome" data-canonical-src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width: 100%;"></a>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 
-### Recommended native installation methods
-[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/win.svg>](## "Windows") Windows: [Chocolatey](https://chocolatey.org/install) <br>
-[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/mac.svg>](## "MacOS") MacOS: [Homebrew](https://brew.sh/)<br>
-[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/linux.svg>](## "Linux") Linux: [Flatpak](https://flatpak.org/setup/)<br>
-[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/chrome.svg>](## "ChromeOS") ChromeOS: [Chromebrew](https://chromebrew.github.io/)<br>
-[<img src=https://cdn.jsdelivr.net/gh/lucasgabmoreno/awesome-crossplatform@main/img/android.svg>](## "Android") Android: [F-Droid](https://f-droid.org/)
+A collection of awesome software that works at least on Windows, macOS, and Linux (and maybe even FreeBSD, Android, iOS, and Chromebrew).
 
 ---
 
