@@ -4,7 +4,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 
 A collection of awesome software that runs on Windows, macOS, and Linux.
-> Programs appear without tags if they support Windows, macOS, and Linux. Additional support for FreeBSD, Android, iOS, or Chromebrew will be explicitly specified.
+> Programs appear without tags if they support Windows, macOS and Linux. Additional support for FreeBSD, Android, iOS or Chromebrew will be explicitly specified.
 
 ---
 
