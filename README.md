@@ -1,8 +1,13 @@
 # Awesome Crossplatform
-
-<a href="https://github.com/sindresorhus/awesome"><img src="https://camo.githubusercontent.com/2727609d8bfde9ba1a95be1449eb878bfafa4d76789ba05661857e2c8ac70fa1/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Awesome" data-canonical-src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width: 100%;"></a>
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-![Chromebrew](https://img.shields.io/badge/Chromebrew-4285F4?style=flat&logo=googlechrome&logoColor=white) ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Windows](https://img.shields.io/badge/❖%20Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
+[![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![Chromebrew](https://img.shields.io/badge/Chromebrew-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+[![Web App](https://img.shields.io/badge/Web%20App-5A0FC8?style=flat&logo=pwa&logoColor=white)](https://en.wikipedia.org/wiki/Progressive_web_app)
 
 A collection of awesome software that runs on Windows, macOS, and Linux.
 > Programs appear without tags if they support Windows, macOS and Linux. Additional support for FreeBSD, Android, iOS or Chromebrew will be explicitly specified.
