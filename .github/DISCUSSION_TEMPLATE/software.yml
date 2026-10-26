@@ -41,28 +41,6 @@ body:
     validations:
       required: false
 
-  - type: markdown
-    attributes:
-      value: |
-        ### Favicon URLs
-
-  - type: input
-    id: favicon-light
-    attributes:
-      label: Favicon Light
-      description: URL to the light mode favicon (optional)
-      placeholder: http://softwarename.com/favicon.ico
-    validations:
-      required: false
-
-  - type: input
-    id: favicon-dark
-    attributes:
-      label: Favicon Dark
-      description: URL to the dark mode favicon (optional)
-      placeholder: http://softwareweb.com/favicon_dark.ico
-    validations:
-      required: false
 
   - type: markdown
     attributes:
