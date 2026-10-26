@@ -56,9 +56,7 @@ body:
     attributes:
       label: Supported Operating Systems
       options:
-        - label: Windows
-        - label: MacOS
-        - label: Linux
+        - label: Windows & MacOS & Linux (Required)
         - label: Android
         - label: iOS
         - label: ChromeOS
