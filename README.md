@@ -10,7 +10,7 @@
 [![Web Version](https://img.shields.io/badge/🌐︎%20Web%20Version-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 
 A collection of awesome software that runs on Windows, macOS, and Linux.
-> Programs appear without tags if they support Windows, macOS and Linux. Additional support for FreeBSD, Android, iOS, Chromebrew or Web Apps will be explicitly specified.
+> Programs appear without tags if they support Windows, macOS and Linux. Additional support for FreeBSD, Android, iOS, Chromebrew or Web version will be explicitly specified.
 
 ---
 
@@ -80,6 +80,8 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
 
+---
+
 ### Communication
 
 #### Messaging & Chat
@@ -141,6 +143,8 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/) 
 - [DeepChat](https://deepchat.thinkinai.xyz/): Desktop AI assistant that works with several models.
 [![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/) 
+
+---
 
 ### Internet
 
@@ -207,6 +211,8 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 
 - [Angry IP Scanner](https://angryip.org/): Fast and simple IP address and port scanner.
 
+---
+
 ### Productivity
 
 #### Office Suites
@@ -240,6 +246,8 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 
 <!-- #### Security & Privacy -->
 
+<!-- --- -->
+
 <!-- ### Development -->
 
 <!-- #### Editors & IDEs -->
@@ -258,6 +266,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 
 <!-- #### Reverse Engineering & Security -->
 
+---
 
 ### Hardware & Systems
 
@@ -275,6 +284,8 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 
 <!-- #### Backup -->
 
+---
+
 ### Games
 
 #### Engines & Creation Tools
@@ -291,6 +302,8 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [Heroic](https://heroicgameslauncher.com/): Open-source launcher for Epic, GOG and Amazon Games.
 
 <!-- #### Native Games -->
+
+---
 
 ### Science, Education & Engineering
 
