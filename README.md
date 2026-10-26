@@ -7,12 +7,13 @@
 [![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 [![Chromebrew](https://img.shields.io/badge/Chromebrew-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
-[![Web App](https://img.shields.io/badge/Web%20App-5A0FC8?style=flat&logo=pwa&logoColor=white)](https://en.wikipedia.org/wiki/Progressive_web_app)
+[![Web Version](https://img.shields.io/badge/🌐︎%20Web%20Version-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 
 A collection of awesome software that runs on Windows, macOS, and Linux.
 > Programs appear without tags if they support Windows, macOS and Linux. Additional support for FreeBSD, Android, iOS, Chromebrew or Web Apps will be explicitly specified.
 
 ---
+
 
 ### Multimedia & Creativity
 
@@ -85,11 +86,17 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 
 - [Telegram](https://web.telegram.org/): Cloud-based messenger with web and desktop clients.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
+[![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
+[![Web Version](https://img.shields.io/badge/🌐︎-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 - [Discord](https://discord.com/): Voice, video and text chat for communities.
-[![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
+[![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com)
+[![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![Web Version](https://img.shields.io/badge/🌐︎-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 - [Slack](https://slack.com/): Team messaging and collaboration platform.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
+[![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![Web Version](https://img.shields.io/badge/🌐︎-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 - [Caprine](https://github.com/sindresorhus/caprine): Unofficial desktop client for Facebook Messenger.
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
 - [Cabal](https://cabal.chat/): Peer-to-peer, offline-first chat without central servers.
@@ -98,9 +105,13 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 
 - [Zoom](https://www.zoom.com/): Video meetings, webinars and screen sharing.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
+[![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
+[![Web Version](https://img.shields.io/badge/🌐︎-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 - [Webex](https://www.webex.com/): Video conferencing and team collaboration by Cisco.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
+[![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![Web Version](https://img.shields.io/badge/🌐︎-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 
 #### Email
 
@@ -124,7 +135,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [Chatbox](https://chatboxai.app/): Desktop client for multiple AI models and providers.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com)
 [![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/) 
-[![Web App](https://img.shields.io/badge/-%20-5A0FC8?style=flat&logo=pwa&logoColor=white)](https://en.wikipedia.org/wiki/Progressive_web_app)
+[![Web Version](https://img.shields.io/badge/🌐︎-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 - [Cherry Studio](https://www.cherry-ai.com/): Desktop AI client with support for many LLM providers.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
 [![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/) 
