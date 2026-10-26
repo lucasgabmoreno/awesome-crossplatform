@@ -10,7 +10,7 @@
 [![Web App](https://img.shields.io/badge/Web%20App-5A0FC8?style=flat&logo=pwa&logoColor=white)](https://en.wikipedia.org/wiki/Progressive_web_app)
 
 A collection of awesome software that runs on Windows, macOS, and Linux.
-> Programs appear without tags if they support Windows, macOS and Linux. Additional support for FreeBSD, Android, iOS or Chromebrew will be explicitly specified.
+> Programs appear without tags if they support Windows, macOS and Linux. Additional support for FreeBSD, Android, iOS, Chromebrew or Web Apps will be explicitly specified.
 
 ---
 
