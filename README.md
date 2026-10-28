@@ -342,7 +342,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [Endless Sky](https://endless-sky.github.io/): Space exploration, trading, and combat game.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com)
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
-- [Enigma](https://www.nongnu.org/enigma/: Puzzle game inspired by Oxyd and Rock'n'Roll.
+- [Enigma](https://www.nongnu.org/enigma/): Puzzle game inspired by Oxyd and Rock'n'Roll.
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 - [FlightGear](https://www.flightgear.org/): Flight simulator.
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
