@@ -59,6 +59,21 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [MyPaint](https://www.mypaint.app/en/): Painting and sketching from scratch.
 - [Upscayl](https://upscayl.org/): AI image upscaler . 
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
+- [FireAlpaca](https://firealpaca.com/): Digital painting software.
+- [NConvert](https://www.xnview.com/en/nconvert/): command line batch image processor.
+[![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [Raw Therapee](https://www.rawtherapee.com/): RAW photo processor.
+- [Upscayl](https://upscayl.org/): AI image upscaler.
+[![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
+- [XnConvert](https://www.xnview.com/en/xnconvert/): Image-converter and resiser tool.
+[![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
+- [XnRetro](https://www.xnview.com/en/xnretro/): Stunning images with vintage or instant effect.
+- [XnSketch](https://www.xnview.com/en/xnsketch/): Turn photos into cartoon or sketch images.
+[![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
+[![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+- [XnView MP](https://www.xnview.com/en/xnview/): Photo viewer, image manager, image resiser and more.
+
 
 #### 3D & Animation
 - [Blender](https://www.blender.org/): 3D creation suite covering modeling, animation, rendering and video editing.
@@ -281,10 +296,24 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [Godot](https://godotengine.org/): Game development engine.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com)
 [![Web Version](https://img.shields.io/badge/🌐︎-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
+- [Doomsday Engine](https://dengine.net/): Enhanced source port of Doom, Heretic, and Hexen.
 
 #### Emulators
 - [Doomsday Engine](https://dengine.net/): Enhanced source port of Doom, Heretic, and Hexen.
 - [Ares](https://ares-emu.net/download): Cross-platform, multi-system emulator, focusing on accuracy and preservation.
+- [Dolphin Emulator](https://es.dolphin-emu.org/): Emulator to play GameCube and Wii games.
+[![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com)
+[![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [DOSBox](https://www.dosbox.com/download.php?main=1): Emulator for x86 with DOS.
+[![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [DOSBox Staging](https://www.dosbox-staging.org/): Fork of the DOSBox project.
+- [DOSBox-X](https://dosbox-x.com/): Fork of the DOSBox project.
+[![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
+- [Fightcade](https://www.fightcade.com/): Matchmaking platform for retro gaming.
+- [FS-UAE](https://fs-uae.net/): Amiga emulator.
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 
 #### Launchers & Stores
 - [Steam](https://store.steampowered.com/): Game store and library manager from Valve.
@@ -309,6 +338,19 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [DevilutionX](https://devilutionx.com/): Diablo build for modern operating systems.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com)
 [![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [Endless Sky](https://endless-sky.github.io/): Space exploration, trading, and combat game.
+[![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com)
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [Enigma](https://www.nongnu.org/enigma/: Puzzle game inspired by Oxyd and Rock'n'Roll.
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [FlightGear](https://www.flightgear.org/): Flight simulator.
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [FreeCol](https://www.freecol.org/): Turn-based strategy game.
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [FreeOrion](https://freeorion.org/): Turn-based space empire and galactic conquest game.
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [O A.D.](https://play0ad.com/): Real-time strategy game.
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 
 ---
