@@ -14,7 +14,6 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 
 ---
 
-
 ### Multimedia & Creativity
 
 #### Audio & Music
@@ -24,6 +23,12 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/) 
 - [VLC](https://www.videolan.org/): Media player that plays almost any audio and video format.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com)
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [Clementine](https://www.clementine-player.org/): Music player and library organiser.
+[![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com)
+- [DeaDBeeF Player](https://deadbeef.sourceforge.io/): Modular audio player.
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [Quod Libet](https://quodlibet.readthedocs.io/en/latest/): Music player and music library manager.
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 
 #### Video & Streaming
@@ -35,6 +40,8 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 - [DaVinci Resolve](https://www.blackmagicdesign.com/ar/products/davinciresolve): Professional video editing, color correction, visual effects and audio post-production.
+- [FreeTube](https://freetubeapp.io/): YouTube player focusing on privacy.
+[![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
 
 
 #### 2D Graphics, Design & Imaging
@@ -240,6 +247,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 #### Notes, Knowledge & Organization
 - [AFFiNE](https://affine.pro/download): Workspace combining docs, whiteboards and databases.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
+[![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 
 <!-- #### Project & Time Management -->
 
