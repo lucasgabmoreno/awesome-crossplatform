@@ -23,7 +23,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 #### Audio & Music
 - [Audacity](https://www.audacityteam.org/): Multi-track audio editor and recorder. 
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 - [Cardinal](https://github.com/DISTRHO/Cardinal): Virtual modular synthesizer, available as a standalone app and as a plugin. 
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/) 
 - [VLC](https://www.videolan.org/): Media player that plays almost any audio and video format.
