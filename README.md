@@ -9,16 +9,21 @@
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 [![Web Version](https://img.shields.io/badge/🌐︎%20Web%20Version-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 
+
 A collection of awesome software that runs on Windows, macOS, and Linux.
 > Programs appear without tags if they support Windows, macOS and Linux. Additional support for FreeBSD, Android, iOS, Chromebrew or Web Apps will be explicitly specified.
 
+
 ---
 
+
 ### Multimedia & Creativity
+
 
 #### Audio & Music
 - [Audacity](https://www.audacityteam.org/): Multi-track audio editor and recorder. 
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 - [Cardinal](https://github.com/DISTRHO/Cardinal): Virtual modular synthesizer, available as a standalone app and as a plugin. 
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/) 
 - [VLC](https://www.videolan.org/): Media player that plays almost any audio and video format.
@@ -30,6 +35,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 - [Quod Libet](https://quodlibet.readthedocs.io/en/latest/): Music player and music library manager.
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+
 
 #### Video & Streaming
 - [Kdenlive](https://kdenlive.org/): Multi-track non-linear video editor from the KDE community. 
@@ -45,8 +51,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [HandBrake](https://handbrake.fr/): Open-source video transcoder.
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
-- [Kdenlive](https://kdenlive.org/): Free and Open Source Video Editor.
-[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+
 
 #### 2D Graphics, Design & Imaging
 - [Gimp](https://www.gimp.org/): Raster image editor for photo retouching and composition.
@@ -86,6 +91,8 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [XnView MP](https://www.xnview.com/en/xnview/): Photo viewer, image manager, image resiser and more.
 
 
+
+
 #### 3D & Animation
 - [Blender](https://www.blender.org/): 3D creation suite covering modeling, animation, rendering and video editing.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
@@ -97,15 +104,20 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Web Version](https://img.shields.io/badge/🌐︎-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 
 
+
+
 #### Media Players, Books & Comics
 - [FBReader](https://fbreader.org/): E-book reader for many formats. 
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
 [![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
 
+
 ---
 
+
 ### Communication
+
 
 #### Messaging & Chat
 - [Telegram](https://web.telegram.org/): Cloud-based messenger with web and desktop clients.
@@ -125,6 +137,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
 - [Cabal](https://cabal.chat/): Peer-to-peer, offline-first chat without central servers.
 
+
 #### Video Conferencing
 - [Zoom](https://www.zoom.com/): Video meetings, webinars and screen sharing.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
@@ -136,6 +149,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 [![Web Version](https://img.shields.io/badge/🌐︎-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 
+
 #### Email
 - [Thunderbird](https://www.thunderbird.net/): Open-source email, calendar and contacts client from Mozilla.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
@@ -145,10 +159,12 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [ElectronMail](https://github.com/vladimiry/ElectronMail): Desktop client for end-to-end encrypted email services such as Proton Mail.
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
 
+
 #### Social & Fediverse Clients
 - [Fedistar](https://fedistar.net/): Multi-account desktop client for Fediverse services such as Mastodon.
 - [Chatterino](https://chatterino.com/): Chat client for Twitch.
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+
 
 #### AI / LLM Clients
 - [ChatALL](https://github.com/ai-shifu/ChatALL): Sends one prompt to several AI bots at once so you can compare answers.
@@ -162,9 +178,12 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [DeepChat](https://deepchat.thinkinai.xyz/): Desktop AI assistant that works with several models.
 [![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/) 
 
+
 ---
 
+
 ### Internet
+
 
 #### Web Browsers
 - [Firefox](https://www.firefox.com/): Open-source browser from Mozilla.
@@ -196,6 +215,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
 
+
 #### Downloads & Torrents
 - [Transmission](https://transmissionbt.com/): Lightweight BitTorrent client.
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
@@ -210,6 +230,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [Free Download Manager](https://www.freedownloadmanager.org/es/): Download accelerator and organiser.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
 
+
 #### File Transfer & Sync
 - [FileZilla](https://filezilla-project.org/): FTP, FTPS and SFTP client.
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
@@ -223,12 +244,16 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
 
+
 #### VPN, Networking & Proxy
 - [Angry IP Scanner](https://angryip.org/): Fast and simple IP address and port scanner.
 
+
 ---
 
+
 ### Productivity
+
 
 #### Office Suites
 - [LibreOffice](https://www.libreoffice.org/): Full open-source office suite with word processor, spreadsheet and presentations.
@@ -248,21 +273,29 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 
 
+
+
 #### Notes, Knowledge & Organization
 - [AFFiNE](https://affine.pro/download): Workspace combining docs, whiteboards and databases.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
 [![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/)
 
+
 <!-- #### Project & Time Management -->
+
 
 #### Finance
 - [Actual](https://actualbudget.org/): Privacy-focused app for managing your finances.
 
+
 <!-- #### Security & Privacy -->
+
 
 ---
 
+
 ### Development
+
 
 #### Editors & IDEs
 - [BlueFish](https://bluefish.openoffice.nl/index.html): Open source code editor.
@@ -272,41 +305,58 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 
 
+
+
 <!-- #### Version Control & Git -->
+
 
 #### Databases
 - [Another Redis Desktop Manager](https://goanother.com/): Redis desktop manager.
 
+
 <!-- #### APIs & Networking -->
 
+
 <!-- #### DevOps & Containers -->
+
 
 #### Build Tools & Utilities
 - [Cacher](https://www.cacher.io/): Code snippet organiser.
 [![Web Version](https://img.shields.io/badge/🌐︎-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 
+
 <!-- #### Frameworks & Runtimes -->
+
 
 <!-- #### Reverse Engineering & Security -->
 
+
 ---
 
+
 ### Hardware & Systems
+
 
 #### System Utilities
 - [Balena Etcher](https://etcher.balena.io/): Flashes OS images to USB drives and SD cards.
 
+
 #### Virtualization & PC Emulation
 - [VirtualBox](https://www.virtualbox.org/): Virtualization software for running multiple operating systems.
+
 
 #### Electronics & Embedded
 - [Energia](https://energia.nu/): Electronics prototyping platform.
 
+
 <!-- #### Backup -->
+
 
 ---
 
+
 ### Games
+
 
 #### Engines & Creation Tools
 - [Defold](https://defold.com/): Free game engine for 2D and 3D games.
@@ -318,6 +368,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com)
 [![Web Version](https://img.shields.io/badge/🌐︎-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 - [Doomsday Engine](https://dengine.net/): Enhanced source port of Doom, Heretic, and Hexen.
+
 
 #### Emulators
 - [Doomsday Engine](https://dengine.net/): Enhanced source port of Doom, Heretic, and Hexen.
@@ -336,12 +387,14 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [FS-UAE](https://fs-uae.net/): Amiga emulator.
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 
+
 #### Launchers & Stores
 - [Steam](https://store.steampowered.com/): Game store and library manager from Valve.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
 - [Heroic](https://heroicgameslauncher.com/): Open-source launcher for Epic, GOG and Amazon Games.
 - [Badlion](https://www.badlion.net/): Minecraft launcher.
 - [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki): PlayStation remote play client.
+
 
 #### Native Games
 - [BanksiaGUI](https://banksiagui.com/): Chess GUI.
@@ -374,9 +427,12 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [O A.D.](https://play0ad.com/): Real-time strategy game.
 [![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 
+
 ---
 
+
 ### Science, Education & Engineering
+
 
 #### CAD & Engineering
 - [FreeCAD](https://www.freecad.org/): Parametric 3D CAD modeler.
@@ -388,7 +444,9 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Android](https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white)](https://www.android.com) 
 [![iOS](https://img.shields.io/badge/-%20-000000?style=flat&logo=ios&logoColor=white)](https://www.apple.com/ios/) 
 
+
 #### Math, Science & Data
 - [Aladin](https://aladin.cds.unistra.fr/AladinDesktop/#Download): Interactive sky atlas for astronomical images and catalogues.
+
 
 <!-- #### Education -->
