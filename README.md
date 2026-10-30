@@ -42,7 +42,11 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/ar/products/davinciresolve): Professional video editing, color correction, visual effects and audio post-production.
 - [FreeTube](https://freetubeapp.io/): YouTube player focusing on privacy.
 [![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
-
+- [HandBrake](https://handbrake.fr/): Open-source video transcoder.
+[![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [Kdenlive](https://kdenlive.org/): Free and Open Source Video Editor.
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 
 #### 2D Graphics, Design & Imaging
 - [Gimp](https://www.gimp.org/): Raster image editor for photo retouching and composition.
@@ -256,21 +260,30 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 
 <!-- #### Security & Privacy -->
 
-<!-- --- -->
+---
 
-<!-- ### Development -->
+### Development
 
-<!-- #### Editors & IDEs -->
+#### Editors & IDEs
+- [BlueFish](https://bluefish.openoffice.nl/index.html): Open source code editor.
+[![Chromebrew](https://img.shields.io/badge/-%20-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromebrew.github.io/)
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+- [BlueJ](https://www.bluej.org/): Java Development Environment designed for beginners.
+[![FreeBSD](https://img.shields.io/badge/-%20-AB2B28?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+
 
 <!-- #### Version Control & Git -->
 
-<!-- #### Databases -->
+#### Databases
+- [Another Redis Desktop Manager](https://goanother.com/): Redis desktop manager.
 
 <!-- #### APIs & Networking -->
 
 <!-- #### DevOps & Containers -->
 
-<!-- #### Build Tools & Utilities -->
+#### Build Tools & Utilities
+- [Cacher](https://www.cacher.io/): Code snippet organiser.
+[![Web Version](https://img.shields.io/badge/🌐︎-5A0FC8?style=flat&logo=w3c&logoColor=white)]()
 
 <!-- #### Frameworks & Runtimes -->
 
@@ -286,8 +299,8 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 #### Virtualization & PC Emulation
 - [VirtualBox](https://www.virtualbox.org/): Virtualization software for running multiple operating systems.
 
-
-<!-- #### Electronics & Embedded -->
+#### Electronics & Embedded
+- [Energia](https://energia.nu/): Electronics prototyping platform.
 
 <!-- #### Backup -->
 
