@@ -31,6 +31,8 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![FreeBSD][freebsd-badge]][freebsd-url]
 - [Quod Libet](https://quodlibet.readthedocs.io/en/latest/): Music player and music library manager.
 [![FreeBSD][freebsd-badge]][freebsd-url]
+- [SoundCraft](https://getartcraft.com/apps/soundcraft): Professional audio recording, editing, and mixing workstation built in Rust.
+[![FreeBSD][freebsd-badge]][freebsd-url]
 
 #### Video & Streaming
 - [OBS Studio](https://obsproject.com/): Open-source video recording and live streaming software.
@@ -51,12 +53,18 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Android][android-badge]][android-url] 
 - [Concat](https://github.com/jub0t/Concat): Local-first video editor with auto-captions, text-to-speech, and no watermark.
 [![Android][android-badge]][android-url] 
+- [EffectCraft](https://getartcraft.com/apps/effectcraft): Open-source motion graphics and visual effects software built in Rust.
+[![FreeBSD][freebsd-badge]][freebsd-url]
+- [Losslesscut](https://losslesscut.app/): Tool to cut and split video and audio without re-encoding or quality loss.
 - [Lightworks](https://lwks.com/): Complete video creation package.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/ar/products/davinciresolve): Professional video editing, color correction, visual effects and audio post-production.
 
 #### 2D Graphics, Design & Imaging
 - [Krita](https://krita.org/): Digital painting and illustration application.
 [![Android][android-badge]][android-url] 
+[![Chromebrew][chromebrew-badge]][chromebrew-url]
+[![FreeBSD][freebsd-badge]][freebsd-url]
+- [ImageMagick](https://imagemagick.org/): Command-line suite to create, convert, and edit images in many formats.
 [![Chromebrew][chromebrew-badge]][chromebrew-url]
 [![FreeBSD][freebsd-badge]][freebsd-url]
 - [Gimp](https://www.gimp.org/): Raster image editor for photo retouching and composition.
@@ -83,6 +91,16 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Chromebrew][chromebrew-badge]][chromebrew-url]
 - [XnConvert](https://www.xnview.com/en/xnconvert/): Image-converter and resiser tool.
 [![Android][android-badge]][android-url] 
+- [VectorCraft](https://getartcraft.com/apps/vectorcraft): Vector illustration software with exact booleans and live editable effects.
+[![FreeBSD][freebsd-badge]][freebsd-url]
+- [PhotoCraft](https://getartcraft.com/apps/photocraft): Open-source image editor from the ArtCraft family of creative apps.
+[![FreeBSD][freebsd-badge]][freebsd-url]
+- [DesignCraft](https://getartcraft.com/apps/designcraft): Open-source page layout and publishing software rebuilt in Rust.
+[![FreeBSD][freebsd-badge]][freebsd-url]
+- [LightCraft](https://getartcraft.com/apps/lightcraft): Open-source photo library and raw developer that runs on your own machine.
+[![FreeBSD][freebsd-badge]][freebsd-url]
+- [FigCraft](https://getartcraft.com/apps/figcraft): Open-source interface design and prototyping tool rebuilt in Rust.
+[![FreeBSD][freebsd-badge]][freebsd-url]
 - [XnView MP](https://www.xnview.com/en/xnview/): Photo viewer, image manager, image resiser and more.
 - [BirdFont](https://birdfont.org/): Font editor.
 - [Lunacy](https://icons8.com/lunacy): Graphic design software.
@@ -175,6 +193,9 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![iOS][ios-badge]][ios-url] 
 - [AnythingLLM](https://anythingllm.com/): Private desktop AI chat application.
 - [ChatALL](https://github.com/ai-shifu/ChatALL): Sends one prompt to several AI bots at once so you can compare answers.
+- [Antigravity](https://antigravity.google): AI agent development platform with desktop app, CLI, IDE, and SDK.
+
+
 
 ---
 
@@ -224,7 +245,10 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![FreeBSD][freebsd-badge]][freebsd-url]
 - [Free Download Manager](https://www.freedownloadmanager.org/es/): Download accelerator and organiser.
 [![Android][android-badge]][android-url] 
+- [aMule](https://www.amule.org/): Open-source peer-to-peer client for the eDonkey and Kad file-sharing networks.
+[![FreeBSD][freebsd-badge]][freebsd-url]
 - [Electorrent](https://github.com/tympanix/): Desktop remote torrenting application.
+
 
 #### File Transfer & Sync
 - [AnyDesk](https://anydesk.com/): Allows connection to a computer remotely.
@@ -267,6 +291,14 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [SoftMaker](https://www.softmaker.com/): Commercial office suite with Microsoft Office compatibility.
 [![Android][android-badge]][android-url] 
 - [OpenOffice](https://www.openoffice.org/): Free and open-source productivity suite.
+[![FreeBSD][freebsd-badge]][freebsd-url]
+- [PDFCraft](https://getartcraft.com/apps/pdfcraft): PDF workbench to read, organize, combine, split, and secure documents.
+[![FreeBSD][freebsd-badge]][freebsd-url]
+- [GridCraft](https://getartcraft.com/apps/gridcraft): Fast, open-source spreadsheet and data analysis software rebuilt in Rust.
+[![FreeBSD][freebsd-badge]][freebsd-url]
+- [Wordcraft](https://getartcraft.com/apps/wordcraft): Fast, open-source word processing software rebuilt in Rust.
+[![FreeBSD][freebsd-badge]][freebsd-url]
+- [DeckCraft](https://getartcraft.com/apps/deckcraft): Open-source slide presentation software for building and delivering decks.
 [![FreeBSD][freebsd-badge]][freebsd-url]
 - [GenOffice](https://genoffice.ai/): Open-source office suite with built-in AI for documents, sheets, and slides.
 
@@ -432,6 +464,8 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Android][android-badge]][android-url] 
 [![iOS][ios-badge]][ios-url] 
 - [LibreCAD](https://librecad.org/): 2D CAD application.
+[![FreeBSD][freebsd-badge]][freebsd-url]
+- [CADCraft](https://getartcraft.com/apps/cadcraft): Fast, open-source computer-aided design and drafting software in Rust.
 [![FreeBSD][freebsd-badge]][freebsd-url]
 - [IngeTrazo](https://ingetrazo.com/): Open-source 3D modeler for architecture and engineering with scaled PDF output.
 
