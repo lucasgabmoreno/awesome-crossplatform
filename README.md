@@ -49,6 +49,10 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [Lightworks](https://lwks.com/): Complete video creation package.
 - [Shotcut](https://www.shotcut.org/): Video editor.
 [![FreeBSD][freebsd-badge]][freebsd-url]
+- [Drift](https://github.com/CutWire-Studios/Drift): Beginner-friendly video editor with effects and captions, no watermark.
+[![Android][android-badge]][android-url] 
+- [Concat](https://github.com/jub0t/Concat): Local-first video editor with auto-captions, text-to-speech, and no watermark.
+[![Android][android-badge]][android-url] 
 
 #### 2D Graphics, Design & Imaging
 - [Gimp](https://www.gimp.org/): Raster image editor for photo retouching and composition.
@@ -129,6 +133,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [Caprine](https://github.com/sindresorhus/caprine): Unofficial desktop client for Facebook Messenger.
 [![Chromebrew][chromebrew-badge]][chromebrew-url]
 - [Cabal](https://cabal.chat/): Peer-to-peer, offline-first chat without central servers.
+- [Whatsapp Desktop unofficial](https://github.com/oOthkOo/whatsapp-desktop): Whatsapp unofficial client.
 
 #### Video Conferencing
 - [Zoom](https://www.zoom.com/): Video meetings, webinars and screen sharing.
@@ -166,6 +171,8 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![iOS][ios-badge]][ios-url] 
 - [DeepChat](https://deepchat.thinkinai.xyz/): Desktop AI assistant that works with several models.
 [![iOS][ios-badge]][ios-url] 
+- [AnythingLLM](https://anythingllm.com/): Private desktop AI chat application.
+
 
 ---
 
@@ -228,6 +235,10 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Android][android-badge]][android-url] 
 [![iOS][ios-badge]][ios-url]
 [![Chromebrew][chromebrew-badge]][chromebrew-url]
+- [AnyDesk](https://anydesk.com/): Allows connection to a computer remotely.
+[![Android][android-badge]][android-url] 
+[![iOS][ios-badge]][ios-url] 
+[![FreeBSD][freebsd-badge]][freebsd-url]
 
 #### VPN, Networking & Proxy
 - [Angry IP Scanner](https://angryip.org/): Fast and simple IP address and port scanner.
@@ -252,6 +263,7 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Android][android-badge]][android-url] 
 - [OpenOffice](https://www.openoffice.org/): Free and open-source productivity suite.
 [![FreeBSD][freebsd-badge]][freebsd-url]
+- [GenOffice](https://genoffice.ai/): Open-source office suite with built-in AI for documents, sheets, and slides.
 
 
 #### Notes, Knowledge & Organization
@@ -262,6 +274,11 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 [![Android][android-badge]][android-url] 
 [![Chromebrew][chromebrew-badge]][chromebrew-url]
 [![FreeBSD][freebsd-badge]][freebsd-url]
+- [AnyType](https://anytype.io/): Local-first and end-to-end encrypted notes app.
+[![Android][android-badge]][android-url] 
+[![iOS][ios-badge]][ios-url]
+- [MDHero](https://mdhero.app/): Lightweight Markdown viewer and editor with math, diagrams, and LLM paste mode.
+
 
 <!-- #### Project & Time Management -->
 
@@ -286,14 +303,18 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 
 #### Databases
 - [Another Redis Desktop Manager](https://goanother.com/): Redis desktop manager.
+- [Apache Directory](https://directory.apache.org/studio/): Eclipse-based LDAP browser and directory client.
 
-<!-- #### APIs & Networking -->
+#### APIs & Networking
+- [Apidog](https://apidog.com/download/): API development platform.
+[![Web Version][web-badge]][web-url]
 
 <!-- #### DevOps & Containers -->
 
 #### Build Tools & Utilities
 - [Cacher](https://www.cacher.io/): Code snippet organiser.
 [![Web Version][web-badge]][web-url]
+
 
 <!-- #### Frameworks & Runtimes -->
 
@@ -305,9 +326,13 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 
 #### System Utilities
 - [Balena Etcher](https://etcher.balena.io/): Flashes OS images to USB drives and SD cards.
+- [Flameshot](https://flameshot.org/): Screenshot software with built-in annotation tools.
+[![FreeBSD][freebsd-badge]][freebsd-url]
 
 #### Virtualization & PC Emulation
 - [VirtualBox](https://www.virtualbox.org/): Virtualization software for running multiple operating systems.
+- [86Box](https://86box.net/): Emulator of x86-based machines based on PCem.
+[![FreeBSD][freebsd-badge]][freebsd-url]
 
 #### Electronics & Embedded
 - [Energia](https://energia.nu/): Electronics prototyping platform.
@@ -352,6 +377,9 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [Heroic](https://heroicgameslauncher.com/): Open-source launcher for Epic, GOG and Amazon Games.
 - [Badlion](https://www.badlion.net/): Minecraft launcher.
 - [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki): PlayStation remote play client.
+- [Epic Games](https://www.epicgames.com/): Video game store and launcher from the makers of Fortnite and Unreal Engine.
+[![Android][android-badge]][android-url] 
+[![iOS][ios-badge]][ios-url] 
 
 #### Native Games
 - [BanksiaGUI](https://banksiagui.com/): Chess GUI.
@@ -397,13 +425,19 @@ A collection of awesome software that runs on Windows, macOS, and Linux.
 - [CAD Assistant](https://www.opencascade.com/products/cad-assistant/)
 [![Android][android-badge]][android-url] 
 [![iOS][ios-badge]][ios-url] 
+- [IngeTrazo](https://ingetrazo.com/): Open-source 3D modeler for architecture and engineering with scaled PDF output.
 
 #### Math, Science & Data
 - [Aladin](https://aladin.cds.unistra.fr/AladinDesktop/#Download): Interactive sky atlas for astronomical images and catalogues.
 - [AntConc"](https://www.laurenceanthony.net/software/antconc/): Corpus analysis toolkit for concordancing and text analysis.
 - [Bandage"](https://rrwick.github.io/Bandage/): Bioinformatics app for navigating de novo assembly graphs.
+- [Ananas Analytics](https://www.ananasanalytics.com/): Hackable data integration & analysis tool.
 
-<!-- #### Education -->
+#### Education
+- [Anki](https://apps.ankiweb.net/): Memory training application.
+[![Android][android-badge]][android-url] 
+[![iOS][ios-badge]][ios-url] 
+[![FreeBSD][freebsd-badge]][freebsd-url]
 
 <!-- Badges references -->
 [android-badge]: https://img.shields.io/badge/-%20-34A853?style=flat&logo=android&logoColor=white
