@@ -9,8 +9,8 @@
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)][freebsd-url]
 [![Web Version](https://img.shields.io/badge/🌐︎%20Web%20Version-5A0FC8?style=flat&logo=w3c&logoColor=white)][web-url]
 
-A collection of awesome software that runs on Windows, macOS, and Linux.
-> Programs appear without tags if they support Windows, macOS and Linux. Additional support for FreeBSD, Android, iOS, Chromebrew or Web Apps will be explicitly specified.
+A curated list of awesome cross-platform software.
+> Note: Every single program in this collection runs on Windows, Linux, and macOS as a strict baseline. Additional support for FreeBSD, Android, iOS, Chromebrew, or Web versions is explicitly mentioned alongside each relevant tool.
 
 ---
 
